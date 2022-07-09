@@ -7,3 +7,4 @@ for place_index in range(1, TOTAL_FREE_PLACE +1):
     if place_index in range(2,FREE_PLACE,4):
        print("|  |" , end="")
 print("\n", "#"*PARKING_PLACE*5,sep="")
+https://imgsh.net/a/LvWYwoa.png
